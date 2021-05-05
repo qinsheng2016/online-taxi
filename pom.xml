@@ -13,6 +13,9 @@
     <modules>
         <module>cloud-eureka</module>
         <module>api-passenger</module>
+        <module>internal-common</module>
+        <module>service-sms</module>
+        <module>service-verification-code</module>
     </modules>
 
 
