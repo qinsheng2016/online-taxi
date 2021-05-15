@@ -19,6 +19,7 @@
         <module>cloud-zuul</module>
         <module>api-listen-order</module>
         <module>service-order</module>
+        <module>service-pay</module>
     </modules>
 
 
