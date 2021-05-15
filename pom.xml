@@ -16,6 +16,9 @@
         <module>internal-common</module>
         <module>service-sms</module>
         <module>service-verification-code</module>
+        <module>cloud-zuul</module>
+        <module>api-listen-order</module>
+        <module>service-order</module>
     </modules>
 
 

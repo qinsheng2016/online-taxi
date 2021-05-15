@@ -2,7 +2,8 @@ server:
   port: 8081
 eureka:
   client:
-    enabled: false
+    service-url:
+      defaultZone: http://eureka-7900:7900/eureka
 spring:
   application:
     name: service-sms
